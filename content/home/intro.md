@@ -8,7 +8,7 @@ headless: true
 # Order that this section will appear in.
 weight: 10
 
-title: ✏️ 鍾Template
+title: ✏️11賣場Template
 subtitle: 'For [Wowchemy Website Builder](https://wowchemy.com/)'
 
 design:
